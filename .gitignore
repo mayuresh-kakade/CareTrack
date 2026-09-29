@@ -1,0 +1,31 @@
+# Eclipse metadata
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.mec
+.classpath
+.project
+.settings/
+.target/
+
+# Maven target directory
+target/
+
+# IntelliJ IDEA metadata
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# VS Code metadata
+.vscode/
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
